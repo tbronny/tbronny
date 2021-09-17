@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I'm a software developer
+
 - 😄 I’m currently working on C#, SQL and other back end development projects
+
+- 🔭 I have experience with HTML, CSS, JavaScript, and React
+
 - 📫 How to reach me: 
 
 Linkedin: https://www.linkedin.com/in/tristan-bron/
