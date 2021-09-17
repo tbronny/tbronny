@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tristan 👋
 
 - 🌱 I'm a software developer
 
