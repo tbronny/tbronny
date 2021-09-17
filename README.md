@@ -3,7 +3,8 @@
 - 🌱 I'm a software developer
 - 😄 I’m currently working on C#, SQL and other back end development projects
 - 📫 How to reach me: 
-      Linkedin: linkedin.com/in/tristan-bron/
+
+Linkedin: linkedin.com/in/tristan-bron/
 
 <!--
 **tbronny/tbronny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
