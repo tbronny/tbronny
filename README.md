@@ -4,7 +4,7 @@
 
 - 😄 I’m currently working on C#, SQL and other back end development projects
 
-- 🔭 I have experience with HTML, CSS, JavaScript, and React
+- 🔭 I have experience with HTML, CSS, JavaScript, React, C#, SQL Server, and .NET
 
 - 📫 How to reach me: 
 
