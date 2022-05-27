@@ -9,3 +9,8 @@
 #### 📫 How to reach me: 
 
 Linkedin: https://www.linkedin.com/in/tristan-bron/
+
+Table:
+| Heading | heading 2 |
+| ------- | --------- | 
+| words | words |
