@@ -10,6 +10,3 @@
 
 Linkedin: https://www.linkedin.com/in/tristan-bron/
 
-| This | -- | That | The |
-| That | -- | Yes | No |
-
